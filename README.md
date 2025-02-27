@@ -74,3 +74,7 @@ SWAG-specific flags are represented as `method.<var_name>` as in Hydra.
 | `experiment.wandb_project`      | Wandb project name                                                                                                               | Any project name                                                                               |
 | `experiment.wandb_mode`         | Wandb running mode                                                                                                               | `online` or `offline`                                                                          |
 | `experiment.exp_name`           | (Optional) Name of the experiment                                                                                                | Any experiment name                                                                            |
+
+## License
+For the code from [https://github.com/fortuinlab/swag-lora](https://github.com/fortuinlab/swag-lora) we retain 
+the original MIT [license](SWAG_LORA_LICENSE).
