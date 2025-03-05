@@ -78,6 +78,7 @@ SWAG-specific flags are represented as `method.<var_name>` as in Hydra.
 
 ## License
 Copyright (C) 2025 Patryk Marszałek, Klaudia Bałazy, Jacek Tabor, Tomasz Kuśmierczyk
+
 This project is distributed under the terms of the [GNU Affero General Public License v3](licenses/LICENSE). 
 Portions of the code derived from MIT-licensed sources remain compatible under both the MIT license and AGPL v3. 
 Please see the [SWAG LoRA LICENSE file](licenses/SWAG_LORA_LICENSE) for details.
