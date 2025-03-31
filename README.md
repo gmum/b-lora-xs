@@ -1,6 +1,6 @@
 # Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA
 
-Code repository for the paper: [Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA](https://arxiv.org/abs/2502.12122)
+Code repository for the paper: *Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA*
 
 Our repository is based on <br>
 [https://github.com/fortuinlab/swag-lora](https://github.com/fortuinlab/swag-lora) and 
@@ -76,13 +76,3 @@ SWAG-specific flags are represented as `method.<var_name>` as in Hydra.
 | `experiment.wandb_mode`         | Wandb running mode                                                                                                               | `online` or `offline`                                                                          |
 | `experiment.exp_name`           | (Optional) Name of the experiment                                                                                                | Any experiment name                                                                            |
 
-## License
-Copyright (C) 2025 Patryk Marszałek, Klaudia Bałazy, Jacek Tabor, Tomasz Kuśmierczyk
-
-This project is distributed under the terms of the [GNU Affero General Public License v3](licenses/LICENSE). 
-Portions of the code derived from MIT-licensed sources remain compatible under both the MIT license and AGPL v3. 
-Please see the [SWAG LoRA LICENSE file](licenses/SWAG_LORA_LICENSE) for details.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
-See the [GNU Affero General Public License v3](licenses/LICENSE) for more details.
